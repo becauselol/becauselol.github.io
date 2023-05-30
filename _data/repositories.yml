@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - becauselol
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - becauselol/CodeForces-Submissions
+  - becauselol/MRT_Simulation
+  - becauselol/MRT_Simulation_HPC_Shared_Multithread
+  - becauselol/Littlefield-Brewery
+  - becauselol/TAE2022Team17Submission
+  - becauselol/Optimization-1D
