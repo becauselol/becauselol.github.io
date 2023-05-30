@@ -6,3 +6,5 @@ description: may, looking forward to summer
 tags: exchange research
 categories: AOSU-exchange
 ---
+
+I begin my journey in Japan.
