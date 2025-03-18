@@ -15,7 +15,7 @@ I was listening to Dimitris Bertsimas speak about the state of modelling and he 
 
 Going through it I was immediately struck with this chart:
 
-[assets/img/2025-03-18/nature.png](The nature)
+![assets/img/2025-03-18/nature.png](The nature)
 
 Alright, so nature has a way of converting some inputs to some form of output. (Think, I eat food and tomorrow it is transformed into some other format.)
 
@@ -23,9 +23,9 @@ So how can we understand such processes?
 
 Breiman states that there are these 'Two Cultures'
 
-[assets/img/2025-03-18/data_model.png](Data Model)
+![assets/img/2025-03-18/data_model.png](Data Model)
 
-[assets/img/2025-03-18/algorithmic_model.png](Algorithmic Model)
+![assets/img/2025-03-18/algorithmic_model.png](Algorithmic Model)
 
 Initially looking at these charts, I thought, aren't they just the same thing?
 
@@ -37,9 +37,9 @@ Whereas in the Algorithmic model, we treat nature as something we don't fully kn
 
 As we advocate for more parameters and deeper machine learning models, I have been thinking that it hasn't been the best paradigm due to the lack of understanding of the models inner workings.
 
-The other day I also saw this ![LinkedIn post](https://www.linkedin.com/posts/eordax_generativeai-ai-machinelearning-activity-7306384624773980160-Sk_n?utm_medium=ios_app&rcm=ACoAAA1Iur4BNcqKV7haOquQq-KwFHx8V4NfmvE&utm_source=social_share_send&utm_campaign=copy_link) with this meme:
+The other day I also saw this [LinkedIn post](https://www.linkedin.com/posts/eordax_generativeai-ai-machinelearning-activity-7306384624773980160-Sk_n?utm_medium=ios_app&rcm=ACoAAA1Iur4BNcqKV7haOquQq-KwFHx8V4NfmvE&utm_source=social_share_send&utm_campaign=copy_link) with this meme:
 
-[assets/img/2025-03-18/meme.jpeg](meme)
+![assets/img/2025-03-18/meme.jpeg](meme)
 
 It made me think, is it really that bad that we have adopted this paradigm of more data = better?
 
