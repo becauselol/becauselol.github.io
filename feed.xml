@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://becauselol.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://becauselol.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-18T09:12:30+00:00</updated><id>https://becauselol.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple little page to showcase what I&apos;ve done and am doing.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://becauselol.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://becauselol.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-18T09:16:59+00:00</updated><id>https://becauselol.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple little page to showcase what I&apos;ve done and am doing.
 </subtitle><entry><title type="html">Reflections - The Two Cultures</title><link href="https://becauselol.github.io/blog/2025/the_two_cultures/" rel="alternate" type="text/html" title="Reflections - The Two Cultures" /><published>2025-03-18T00:00:00+00:00</published><updated>2025-03-18T00:00:00+00:00</updated><id>https://becauselol.github.io/blog/2025/the_two_cultures</id><content type="html" xml:base="https://becauselol.github.io/blog/2025/the_two_cultures/"><![CDATA[<h1 id="the-two-cultures">The Two Cultures</h1>
 
 <p>This started because I was listening to the ‘Subject to:’ podcast.</p>
@@ -7,7 +7,7 @@
 
 <p>Going through it I was immediately struck with this chart:</p>
 
-<p><a href="The nature">assets/img/2025-03-18/nature.png</a></p>
+<p><img src="The nature" alt="assets/img/2025-03-18/nature.png" /></p>
 
 <p>Alright, so nature has a way of converting some inputs to some form of output. (Think, I eat food and tomorrow it is transformed into some other format.)</p>
 
@@ -15,9 +15,9 @@
 
 <p>Breiman states that there are these ‘Two Cultures’</p>
 
-<p><a href="Data Model">assets/img/2025-03-18/data_model.png</a></p>
+<p><img src="Data Model" alt="assets/img/2025-03-18/data_model.png" /></p>
 
-<p><a href="Algorithmic Model">assets/img/2025-03-18/algorithmic_model.png</a></p>
+<p><img src="Algorithmic Model" alt="assets/img/2025-03-18/algorithmic_model.png" /></p>
 
 <p>Initially looking at these charts, I thought, aren’t they just the same thing?</p>
 
@@ -29,9 +29,9 @@
 
 <p>As we advocate for more parameters and deeper machine learning models, I have been thinking that it hasn’t been the best paradigm due to the lack of understanding of the models inner workings.</p>
 
-<p>The other day I also saw this <img src="https://www.linkedin.com/posts/eordax_generativeai-ai-machinelearning-activity-7306384624773980160-Sk_n?utm_medium=ios_app&amp;rcm=ACoAAA1Iur4BNcqKV7haOquQq-KwFHx8V4NfmvE&amp;utm_source=social_share_send&amp;utm_campaign=copy_link" alt="LinkedIn post" /> with this meme:</p>
+<p>The other day I also saw this <a href="https://www.linkedin.com/posts/eordax_generativeai-ai-machinelearning-activity-7306384624773980160-Sk_n?utm_medium=ios_app&amp;rcm=ACoAAA1Iur4BNcqKV7haOquQq-KwFHx8V4NfmvE&amp;utm_source=social_share_send&amp;utm_campaign=copy_link">LinkedIn post</a> with this meme:</p>
 
-<p><a href="meme">assets/img/2025-03-18/meme.jpeg</a></p>
+<p><img src="meme" alt="assets/img/2025-03-18/meme.jpeg" /></p>
 
 <p>It made me think, is it really that bad that we have adopted this paradigm of more data = better?</p>
 
